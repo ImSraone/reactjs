@@ -6,7 +6,7 @@ class AboutPage extends React.Component{
         return(
             
             <div>
-                <p>About Page </p>
+                <h1>About page </h1>
             </div>
         );
     }
